@@ -4,7 +4,8 @@ metadata:
   name: temp-bs
 spec:
   type: other
+  owner: Parkreiner
   lifecycle: unknown
   coder:
-    mode: "auto"
+    mode: auto
   
